@@ -1,0 +1,5 @@
+{
+  "name": "Enception: File Encryptor",
+  "description": "A sleek and modern web application to encrypt and decrypt any file format directly in your browser. Upload a file, secure it with a generated key, and decrypt it back to its original form.",
+  "requestFramePermissions": []
+}
